@@ -1,0 +1,34 @@
+{
+ "region": "서울 서대문구 남가좌동",
+ "nameEn": "Myongji University Seoul Campus",
+ "added": "2026-10-24",
+ "rank": 257,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "MJC",
+   "campus": "명지전문대학",
+   "km": 0.5
+  },
+  {
+   "code": "YONSEI",
+   "campus": "연세대학교 신촌캠퍼스",
+   "km": 1.9
+  },
+  {
+   "code": "SCU",
+   "campus": "서울기독대학교",
+   "km": 2.5
+  },
+  {
+   "code": "EWHA",
+   "campus": "이화여자대학교",
+   "km": 2.7
+  },
+  {
+   "code": "SWCN",
+   "campus": "서울여자간호대학교",
+   "km": 2.9
+  }
+ ]
+}
